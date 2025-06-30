@@ -2,3 +2,7 @@ baseURL = 'https://blog.shineal.xin/'
 languageCode = 'zh-CN'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
