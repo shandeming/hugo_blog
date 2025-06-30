@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43753/posts/my-first-post/</loc>
+    <loc>https://blog.shineal.xin/posts/my-first-post/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:43753/</loc>
+    <loc>https://blog.shineal.xin/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:43753/posts/</loc>
+    <loc>https://blog.shineal.xin/posts/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:43753/categories/</loc>
+    <loc>https://blog.shineal.xin/categories/</loc>
   </url><url>
-    <loc>http://localhost:43753/tags/</loc>
+    <loc>https://blog.shineal.xin/tags/</loc>
   </url>
 </urlset>
