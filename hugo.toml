@@ -1,7 +1,8 @@
 baseURL = 'https://blog.shineal.xin/'
 languageCode = 'zh-CN'
-title = 'My New Hugo Site'
+title = "Shineal's Blog"
 theme = 'ananke'
+enableRobotsTXT = true
 
 [caches]
   [caches.images]

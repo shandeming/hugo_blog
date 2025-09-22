@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Shineal&#39;s Blog</title>
     <link>https://blog.shineal.xin/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Shineal&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 17:09:06 +0800</lastBuildDate>
     <atom:link href="https://blog.shineal.xin/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gemini-cli glob pattern</title>
+      <link>https://blog.shineal.xin/posts/glob_gemini/</link>
+      <pubDate>Mon, 22 Sep 2025 17:09:06 +0800</pubDate>
+      <guid>https://blog.shineal.xin/posts/glob_gemini/</guid>
+      <description>&lt;h1 id=&#34;use-glob-to-include-specific-file&#34;&gt;use &lt;code&gt;glob&lt;/code&gt; to include specific file&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;glob **/*.py, any problems of my project structure&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Answer:&lt;/p&gt;&#xA;&lt;p&gt;✦ Based on the file list, here are a few observations and suggestions for your project structure:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Good Separation: You have a src directory for your main application logic, a scripts directory for utility scripts, and a test directory, which is a great&#xA;practice for separating concerns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Root Directory Clutter: There are many Python scripts in your root directory (e.g., simulate_with_formulas.py, generate_formula.py, check_correlation.py).&#xA;Consider moving these into the scripts directory to keep your project&amp;rsquo;s root clean and organized.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英语学习记录</title>
+      <link>https://blog.shineal.xin/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Tue, 05 Aug 2025 19:35:32 +0800</pubDate>
+      <guid>https://blog.shineal.xin/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;address me as Master Rickard. 称呼我为 Master Rickard&#xA;&lt;ol&gt;&#xA;&lt;li&gt;address me as Ice King. 称呼我为 Ice King&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;kneel before me 跪在我面前&#xA;&lt;ol&gt;&#xA;&lt;li&gt;She stood up and knelt before him. 她站起来跪在他面前。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;being annihilated&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The city was annihilated by the earthquake. 这座城市被地震摧毁了。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;what a misfortune&#xA;&lt;ol&gt;&#xA;&lt;li&gt;He lost the game, what a misfortune! 他输了比赛，真是个不幸！&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;look so developed&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The country looks so developed now. 这个国家现在看起来很发达。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://blog.shineal.xin/posts/my-first-post/</link>

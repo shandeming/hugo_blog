@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.shineal.xin/sitemap.xml
